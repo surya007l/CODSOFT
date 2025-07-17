@@ -65,5 +65,5 @@ This internship allowed me to:
 
 ---
 
-## 📂 Repository Structure
+
 
